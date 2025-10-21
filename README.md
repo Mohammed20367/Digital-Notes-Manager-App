@@ -126,7 +126,7 @@ Digital Notes Manager App/
 
 **Mohamed Nasser**  
 📧 [mohamed1.nasser.hassan@gmail.com](mailto:mohamed1.nasser.hassan@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Mohammed20367)
+🌐 [LinkedIn Profile]([https://github.com/Mohammed20367](https://www.linkedin.com/in/mohammed970/))
 
 ---
 
