@@ -64,7 +64,7 @@ To create a standalone executable (.exe):
    - Target runtime: **win-x64**
 3. After publishing, find your `.exe` file here:  
    ```
-   in\Release
+   bin\Release
 et8.0-windows\publish   ```
 
 ---
